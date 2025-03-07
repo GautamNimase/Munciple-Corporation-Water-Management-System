@@ -77,15 +77,4 @@ python app.py
 
 ---
 
-## 📝 Contributing  
-
-Want to contribute? Feel free to submit pull requests or report issues!  
-
----
-
-## 📩 Contact  
-
-For any queries, contact **[Your Name]** at **your.email@example.com**  
-
----
 
